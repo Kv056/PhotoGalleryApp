@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DC\\Desktop\\CodingChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeUITests\\CodingChallengeUITestsLaunchTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeUITests\\CodingChallengeUITestsLaunchTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeUITests\\CodingChallengeUITests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeUITests\\CodingChallengeUITests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoListViewModelTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeTests\\PhotoListViewModelTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoDTOTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeTests\\PhotoDTOTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoDetailViewModelTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeTests\\PhotoDetailViewModelTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoAPIServiceTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeTests\\PhotoAPIServiceTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\CodingChallengeTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallengeTests\\CodingChallengeTests.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\CodingChallengeApp.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\CodingChallengeApp.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Persistence.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Persistence.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoRowView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Views\\PhotoRowView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoPlaceholderImage.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Views\\PhotoPlaceholderImage.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoListView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Views\\PhotoListView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoDetailView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Views\\PhotoDetailView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\EmptyStateView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Views\\EmptyStateView.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\ViewModels\\PhotoDetailViewModel.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\ViewModels\\PhotoDetailViewModel.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\PhotoRepository.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\PhotoRepository.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\ViewModels\\PhotoListViewModel.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\ViewModels\\PhotoListViewModel.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\RetryManager.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\RetryManager.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\PhotoAPIService.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\PhotoAPIService.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\NetworkMonitor.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\NetworkMonitor.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\NetworkError.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\NetworkError.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\Endpoint.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\Endpoint.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIInterceptor.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\APIInterceptor.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIConstants.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\APIConstants.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIClient.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Services\\APIClient.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Models\\PhotoDTO.swift||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodingChallenge\\Models\\PhotoDTO.swift||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-15T08:37:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodingChallengeUITestsLaunchTests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeUITests\\CodingChallengeUITestsLaunchTests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeUITests\\CodingChallengeUITestsLaunchTests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeUITests\\CodingChallengeUITestsLaunchTests.swift",
+              "RelativeToolTip": "CodingChallengeUITests\\CodingChallengeUITestsLaunchTests.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:36:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodingChallengeUITests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeUITests\\CodingChallengeUITests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeUITests\\CodingChallengeUITests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeUITests\\CodingChallengeUITests.swift",
+              "RelativeToolTip": "CodingChallengeUITests\\CodingChallengeUITests.swift",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:35:47.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotoListViewModelTests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoListViewModelTests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeTests\\PhotoListViewModelTests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoListViewModelTests.swift",
+              "RelativeToolTip": "CodingChallengeTests\\PhotoListViewModelTests.swift",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:34:31.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotoDTOTests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoDTOTests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeTests\\PhotoDTOTests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoDTOTests.swift",
+              "RelativeToolTip": "CodingChallengeTests\\PhotoDTOTests.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:34:01.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhotoDetailViewModelTests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoDetailViewModelTests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeTests\\PhotoDetailViewModelTests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoDetailViewModelTests.swift",
+              "RelativeToolTip": "CodingChallengeTests\\PhotoDetailViewModelTests.swift",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:24:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhotoAPIServiceTests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoAPIServiceTests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeTests\\PhotoAPIServiceTests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\PhotoAPIServiceTests.swift",
+              "RelativeToolTip": "CodingChallengeTests\\PhotoAPIServiceTests.swift",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:17:10.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodingChallengeTests.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\CodingChallengeTests.swift",
+              "RelativeDocumentMoniker": "CodingChallengeTests\\CodingChallengeTests.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallengeTests\\CodingChallengeTests.swift",
+              "RelativeToolTip": "CodingChallengeTests\\CodingChallengeTests.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:16:33.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CodingChallengeApp.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\CodingChallengeApp.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\CodingChallengeApp.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\CodingChallengeApp.swift",
+              "RelativeToolTip": "CodingChallenge\\CodingChallengeApp.swift",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:16:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persistence.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Persistence.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Persistence.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Persistence.swift",
+              "RelativeToolTip": "CodingChallenge\\Persistence.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:15:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhotoRowView.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoRowView.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Views\\PhotoRowView.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoRowView.swift",
+              "RelativeToolTip": "CodingChallenge\\Views\\PhotoRowView.swift",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:14:17.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhotoPlaceholderImage.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoPlaceholderImage.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Views\\PhotoPlaceholderImage.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoPlaceholderImage.swift",
+              "RelativeToolTip": "CodingChallenge\\Views\\PhotoPlaceholderImage.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:14:07.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhotoListView.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoListView.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Views\\PhotoListView.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoListView.swift",
+              "RelativeToolTip": "CodingChallenge\\Views\\PhotoListView.swift",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAG4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T08:02:09.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhotoDetailView.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoDetailView.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Views\\PhotoDetailView.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\PhotoDetailView.swift",
+              "RelativeToolTip": "CodingChallenge\\Views\\PhotoDetailView.swift",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:57:17.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmptyStateView.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\EmptyStateView.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Views\\EmptyStateView.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Views\\EmptyStateView.swift",
+              "RelativeToolTip": "CodingChallenge\\Views\\EmptyStateView.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:56:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhotoListViewModel.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\ViewModels\\PhotoListViewModel.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\ViewModels\\PhotoListViewModel.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\ViewModels\\PhotoListViewModel.swift",
+              "RelativeToolTip": "CodingChallenge\\ViewModels\\PhotoListViewModel.swift",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAewH4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:34:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhotoDetailViewModel.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\ViewModels\\PhotoDetailViewModel.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\ViewModels\\PhotoDetailViewModel.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\ViewModels\\PhotoDetailViewModel.swift",
+              "RelativeToolTip": "CodingChallenge\\ViewModels\\PhotoDetailViewModel.swift",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:33:54.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RetryManager.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\RetryManager.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\RetryManager.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\RetryManager.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\RetryManager.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:33:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PhotoRepository.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\PhotoRepository.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\PhotoRepository.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\PhotoRepository.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\PhotoRepository.swift",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:11:53.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PhotoAPIService.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\PhotoAPIService.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\PhotoAPIService.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\PhotoAPIService.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\PhotoAPIService.swift",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:10:20.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NetworkMonitor.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\NetworkMonitor.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\NetworkMonitor.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\NetworkMonitor.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\NetworkMonitor.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:10:10.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NetworkError.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\NetworkError.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\NetworkError.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\NetworkError.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\NetworkError.swift",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:06:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Endpoint.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\Endpoint.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\Endpoint.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\Endpoint.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\Endpoint.swift",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:06:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "APIInterceptor.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIInterceptor.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\APIInterceptor.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIInterceptor.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\APIInterceptor.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:05:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "APIConstants.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIConstants.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\APIConstants.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIConstants.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\APIConstants.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T07:05:34.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "APIClient.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIClient.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Services\\APIClient.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Services\\APIClient.swift",
+              "RelativeToolTip": "CodingChallenge\\Services\\APIClient.swift",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T05:46:13.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PhotoDTO.swift",
+              "DocumentMoniker": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Models\\PhotoDTO.swift",
+              "RelativeDocumentMoniker": "CodingChallenge\\Models\\PhotoDTO.swift",
+              "ToolTip": "C:\\Users\\DC\\Desktop\\CodingChallenge\\CodingChallenge\\Models\\PhotoDTO.swift",
+              "RelativeToolTip": "CodingChallenge\\Models\\PhotoDTO.swift",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T05:46:00.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
